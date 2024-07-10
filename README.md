@@ -1,6 +1,6 @@
 ## Just a big dreamer.
 - Year 1 Computer Science student.
-- Interest in game development and coding languages
+- Interest in game development and coding languages.
 
 <!--
 **U3F1NB90S/U3F1NB90S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
